@@ -1,3 +1,14 @@
+THIS GITHUB IS NOT BEING MAINTAINED - PLEASE USE THE REPO LOCATED AT https://github.com/the-bonasio-lab/LIDAR FOR LATEST UPDATES
+
+
+
+
+
+
+
+
+
+
 # LIDAR
 Mapping and basic analysis to accompany LIDAR-seq
 
